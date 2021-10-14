@@ -1,0 +1,1 @@
+# docker-postgresql-repmgr-zombodb
